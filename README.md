@@ -1,1 +1,1 @@
-# stocks
+# stocks , basic project implementation 
